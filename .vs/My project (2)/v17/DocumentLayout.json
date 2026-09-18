@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao-paulo_araujo\\My project (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\joao-paulo_araujo\\my project (2)\\assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\joao-paulo_araujo\\my project (2)\\assets\\asteiroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\asteiroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\joao-paulo_araujo\\My project (2)\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\joao-paulo_araujo\\My project (2)\\Assets\\Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Obstacle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T23:56:57.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asteiroide.cs",
+              "DocumentMoniker": "C:\\Users\\joao-paulo_araujo\\My project (2)\\Assets\\Asteiroide.cs",
+              "RelativeDocumentMoniker": "Assets\\Asteiroide.cs",
+              "ToolTip": "C:\\Users\\joao-paulo_araujo\\My project (2)\\Assets\\Asteiroide.cs",
+              "RelativeToolTip": "Assets\\Asteiroide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T00:06:32.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
