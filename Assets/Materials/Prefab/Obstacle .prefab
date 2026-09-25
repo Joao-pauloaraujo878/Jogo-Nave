@@ -11,10 +11,9 @@ GameObject:
   - component: {fileID: 7033209896901877164}
   - component: {fileID: 5388596343232317652}
   - component: {fileID: 5377710953718773531}
-  - component: {fileID: 1454585998600396032}
-  - component: {fileID: 3423411322772118043}
   - component: {fileID: 2954255086663300613}
   - component: {fileID: -1411451324021977300}
+  - component: {fileID: 1393694483653947572}
   m_Layer: 0
   m_Name: 'Obstacle '
   m_TagString: Untagged
@@ -147,30 +146,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!114 &1454585998600396032
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1534633529288843271}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 158f734def5cea94ba8496dac637a2b0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
---- !u!114 &3423411322772118043
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1534633529288843271}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36a174766fb53e947a6117fa7b0beeaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!50 &2954255086663300613
 Rigidbody2D:
   serializedVersion: 5
@@ -251,3 +226,19 @@ PolygonCollider2D:
       - {x: 0.5, y: 0}
       - {x: 0.25, y: 0.43359375}
   m_UseDelaunayMesh: 1
+--- !u!114 &1393694483653947572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1534633529288843271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 158f734def5cea94ba8496dac637a2b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+  minSize: 0.5
+  maxSine: 2
+  minSpeed: 50
+  maxSpeed: 150

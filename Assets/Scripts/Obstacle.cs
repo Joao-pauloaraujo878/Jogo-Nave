@@ -2,11 +2,11 @@ using UnityEngine;
 
 public class Obstacle : MonoBehaviour
 {
-    float minSize = 0.5f;
-    float maxSine = 2.0f;
+    public float minSize = 0.5f;
+    public float maxSine = 2.0f;
     Rigidbody2D rb;
-    float minSpeed = 50f;
-    float maxSpeed = 150f;
+    public float minSpeed = 50f;
+    public float maxSpeed = 150f;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -22,7 +22,6 @@ public class Obstacle : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
         

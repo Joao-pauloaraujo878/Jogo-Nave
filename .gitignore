@@ -53,4 +53,9 @@ Thumbs.db
 ehthumbs.db
 
 # Environment variables & secrets
-.env
+.env.vs/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
